@@ -3,7 +3,7 @@ Autores:
 - Julian Javier Lizcano Villarreal
 - Alejandro Farelo Duarte
 
-Objetivo: Desarrollar un sistema de segmentación automatizada de lesiones por ictus isquémico utilizando redes neuronales profundas
+Objetivo: Identificar lesiones iquémicas en imágenes de resonancia magnética cerebral (DWI y ADC)
 
 Dataset:
 - ISLES 2022 (Ischemic Stroke Lesion Segmentation): [https://www.kaggle.com/datasets/orvile/isles-2022-brain-stoke-dataset]
